@@ -1,3 +1,3 @@
 apt install apache2 -y
 service apache2 start
-echo "IT WORKS!!" > /var/www/html/index.html
+echo "<h1 align="center">IT WORKS</h1>" > /var/www/html/index.html
